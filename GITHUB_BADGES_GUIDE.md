@@ -11,13 +11,16 @@
 ## Étape 2 : Générer le badge pour chaque workflow
 
 1. **Sélectionnez un workflow :**
+
    - Cliquez sur le nom du workflow (par exemple, "Run Tests").
 
 2. **Générez le badge :**
+
    - Dans l'interface du workflow, cliquez sur l'icône **"..."** (trois points) en haut à droite.
    - Sélectionnez **Create status badge**.
 
 3. **Copiez le code Markdown généré :**
+
    - Un bloc de code vous sera proposé, ressemblant à ceci :
      ```markdown
      ![Tests](https://github.com/<votre-utilisateur>/<votre-repo>/actions/workflows/test.yml/badge.svg)
@@ -34,7 +37,8 @@
 2. Ajoutez les badges dans une section dédiée, comme ceci :
 
 ### Exemple de contenu pour `README.md` :
-```markdown
+
+````markdown
 # Mon Projet Python
 
 ![Tests](https://github.com/<votre-utilisateur>/<votre-repo>/actions/workflows/test.yml/badge.svg)
@@ -59,3 +63,5 @@ Ce projet Python inclut :
    ```bash
    git clone https://github.com/<votre-utilisateur>/<votre-repo>.git
    cd <votre-repo>
+   ```
+````
