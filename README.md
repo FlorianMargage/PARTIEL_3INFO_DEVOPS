@@ -1,4 +1,3 @@
-````markdown
 # Mon Projet Python
 
 ![RunTest](https://github.com/FlorianMargage/PARTIEL_3INFO_DEVOPS/actions/workflows/run_test.yml/badge.svg?event=push)](https://github.com/FlorianMargage/PARTIEL_3INFO_DEVOPS/actions/workflows/run_test.yml)
@@ -24,4 +23,3 @@ Ce projet Python inclut :
    git clone https://github.com/<votre-utilisateur>/<votre-repo>.git
    cd <votre-repo>
    ```
-````
