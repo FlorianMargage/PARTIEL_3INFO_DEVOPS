@@ -13,8 +13,8 @@ Ce projet Python inclut :
 
 ## Workflows GitHub Actions
 
-- **Tests** : Vérifie que les tests unitaires passent correctement.
-- **Lint** : Vérifie la qualité du code avec un linter.
+- **RunTest** : Vérifie que les tests unitaires passent correctement.
+- **Pylint** : Vérifie la qualité du code avec un linter.
 
 ## Installation
 
