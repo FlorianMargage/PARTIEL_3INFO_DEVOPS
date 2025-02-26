@@ -8,10 +8,11 @@ def multiply( x,y ):
 
 def divide(x , y ):
     """Faire la division de 2 nombres."""
-    beta = 0
     if y != 0:
         return x/y
-
+    else:
+        raise Exception("Division par zéro")
+        
 def greet(name):
     """Retourne Bonjour suivi du nom passé en paramètre."""
     if name =="":
