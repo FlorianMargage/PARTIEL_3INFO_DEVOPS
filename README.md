@@ -1,7 +1,7 @@
 # Mon Projet Python
 
-![RunTest](https://github.com/FlorianMargage/PARTIEL_3INFO_DEVOPS/actions/workflows/run_test.yml/badge.svg?event=push)](https://github.com/FlorianMargage/PARTIEL_3INFO_DEVOPS/actions/workflows/run_test.yml)
-![Pylint](https://github.com/FlorianMargage/PARTIEL_3INFO_DEVOPS/actions/workflows/pylint.yml/badge.svg?event=push)](https://github.com/FlorianMargage/PARTIEL_3INFO_DEVOPS/actions/workflows/pylint.yml)
+[![RunTest](https://github.com/FlorianMargage/PARTIEL_3INFO_DEVOPS/actions/workflows/run_test.yml/badge.svg?event=push)](https://github.com/FlorianMargage/PARTIEL_3INFO_DEVOPS/actions/workflows/run_test.yml)
+[![Pylint](https://github.com/FlorianMargage/PARTIEL_3INFO_DEVOPS/actions/workflows/pylint.yml/badge.svg?event=push)](https://github.com/FlorianMargage/PARTIEL_3INFO_DEVOPS/actions/workflows/pylint.yml)
 
 ## Description
 
