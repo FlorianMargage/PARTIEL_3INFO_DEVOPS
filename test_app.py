@@ -20,7 +20,7 @@ class TestAddFunction(unittest.TestCase):
     def test_divide(self):
         """Test de la fonction divide."""
         self.assertEqual(divide(10, 2), 5)
-        self.assertEqual(divide(5, 0), None)
+        self.assertEqual(divide(5, 0), ValueError("Division par zéro"))
         self.assertEqual(divide(0, 5), 0)
 
     def test_greet(self):
