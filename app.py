@@ -12,7 +12,7 @@ def divide(x , y ):
     """Faire la division de 2 nombres."""
     if y != 0:
         return x/y
-    raise ValueError("Division par zéro")
+    return None
 
 def greet(name):
     """Retourne Bonjour suivi du nom passé en paramètre."""
